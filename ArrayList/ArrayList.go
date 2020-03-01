@@ -14,6 +14,7 @@ type List interface {
 	Clear()
 	Delete(index int)
 	Print() string
+	Iterator() Iterator
 }
 
 type ArrayList struct {

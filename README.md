@@ -2,6 +2,7 @@
 
 ### ArrayList
 + Build an simple Arraylist
+    + Add an iterator
 
 
 ---
